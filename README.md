@@ -4,7 +4,7 @@
 · Code Samples: GitHub - microsoft/BotBuilder-Samples: for Teams, Graph sample - #24). I also recommend the repository by Bob German -  GitHub - BobGerman/Microsoft-Teams-Samples: Welcome to the Microsoft Teams samples repository.
  
 ## Microsoft Graph:
-· [Overview of Microsoft Graph] (https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
+· [Overview of Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
 · Start working with Microsoft Graph (app registration, token)  - Authentication and authorization basics for Microsoft Graph - Microsoft Graph | Microsoft Docs
 · Postman collection - Use Postman with the Microsoft Graph API - Microsoft Graph | Microsoft Docs
 · Changelog - Microsoft Graph
