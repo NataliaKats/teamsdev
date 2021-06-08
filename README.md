@@ -1,17 +1,17 @@
 ## Teams Platfrom
 
-#Main documentation
+# Main documentation
 * [Build apps for the Microsoft Teams platform](https://docs.microsoft.com/en-us/microsoftteams/platform/overview) – main Teams Platform Documentation (app components, authentication, app publication).
 * [Designing your custom app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview) - Teams – the set of articles with design guidelines.
 
-#What's new:
+# What's new:
 * [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). Including [updates from Microsoft Build 2021](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview#microsoft-build-2021).
 * [Microsoft Teams Blog - Microsoft 365 Developer Blog]
 
-#Publication to Teams app store:
+# Publication to Teams app store:
 * [Publish your app to the Microsoft Teams store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
 
-#Code samples:
+# Code samples:
 * [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples). [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples), for Microsoft Graph - #24. 
 * I also recommend the repository by Bob German -  [GitHub - BobGerman/Microsoft-Teams-Samples](https://github.com/BobGerman/Microsoft-Teams-Samples).
  
