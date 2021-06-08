@@ -3,7 +3,7 @@
 ## Main documentation:
 * [Build apps for the Microsoft Teams platform](https://docs.microsoft.com/en-us/microsoftteams/platform/overview) – main Teams Platform Documentation (app components, authentication, app publication).
 * [Designing your custom app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview) - the set of articles with design guidelines.
-* Teams platform presentation by Natalia Kats ([RUS](https://nam06.safelinks.protection.outlook.com/ap/p-59584e83/?url=https%3A%2F%2F1drv.ms%2Fp%2Fs!ApfdFErcwDpjg-BUmqjoigjmT9vFrg%3Fe%3Di9cyg0&data=04%7C01%7Cnkats%40microsoft.com%7C3b574f1143494f00c17008d91f4cb04e%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C0%7C637575236555136408%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=awdH08Ly2aCNKFdqErYvF%2BwD0ciB0VTknNa8yQoOZUY%3D&reserved=0_)). 
+* Teams platform presentation by Natalia Kats ([RUS](https://1drv.ms/b/s!ApfdFErcwDpjg-MnrT3mKn6HrQpOxw)). 
 
 ## What's new:
 * [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). Including [updates from Microsoft Build 2021](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview#microsoft-build-2021).
