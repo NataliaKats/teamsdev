@@ -1,7 +1,19 @@
 ## Teams Platfrom
-* Build apps for the Microsoft Teams platform – main Teams Platform Documentation (app components, authentication, app publication).
-* Designing your custom app - Teams – the set of articles with design guidelines.
-* Code Samples: GitHub - microsoft/BotBuilder-Samples: for Teams, Graph sample - #24). I also recommend the repository by Bob German -  GitHub - BobGerman/Microsoft-Teams-Samples: Welcome to the Microsoft Teams samples repository.
+
+#Main documentation
+* [Build apps for the Microsoft Teams platform](https://docs.microsoft.com/en-us/microsoftteams/platform/overview) – main Teams Platform Documentation (app components, authentication, app publication).
+* [Designing your custom app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview) - Teams – the set of articles with design guidelines.
+
+#What's new:
+* [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). Including [updates from Microsoft Build 2021](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview#microsoft-build-2021).
+* [Microsoft Teams Blog - Microsoft 365 Developer Blog]
+
+#Publication to Teams app store:
+* [Publish your app to the Microsoft Teams store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
+
+#Code samples:
+* [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples). [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples), for Microsoft Graph - #24. 
+* I also recommend the repository by Bob German -  [GitHub - BobGerman/Microsoft-Teams-Samples](https://github.com/BobGerman/Microsoft-Teams-Samples).
  
 ## Microsoft Graph:
 * [Overview of Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
