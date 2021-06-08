@@ -20,7 +20,7 @@
 ## Main documentation:
 * [Overview of Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. 
 * API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
-* [Authentication and authorization basics for Microsoft Graph - Microsoft Graph] Start working with Microsoft Graph (app registration, token)
+* [Authentication and authorization basics for Microsoft Graph - Microsoft Graph](https://docs.microsoft.com/en-us/graph/auth/auth-concepts?view=graph-rest-1.0) - start working with Microsoft Graph (app registration, token)
 
 ## What's new
 * [What's new in Microsoft Graph](https://docs.microsoft.com/en-us/graph/whats-new-overview)
