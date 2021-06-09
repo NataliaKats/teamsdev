@@ -13,6 +13,7 @@
 * [Publish your app to the Microsoft Teams store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish)
 
 ## Code samples and tools for developers:
+* [Microsoft Teams Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples).
 * [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples): [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples), sample for Microsoft Graph - #24. 
 * I also recommend the repository by Bob German -  [GitHub - BobGerman/Microsoft-Teams-Samples](https://github.com/BobGerman/Microsoft-Teams-Samples).
 * [App Studio for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/app-studio-overview).
