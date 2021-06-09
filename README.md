@@ -14,7 +14,7 @@
 
 ## Code samples and tools for developers:
 * [Microsoft Teams Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples).
-* [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples): [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples), sample for Microsoft Graph - #24. 
+* [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples): [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples)
 * I also recommend the repository by Bob German -  [GitHub - BobGerman/Microsoft-Teams-Samples](https://github.com/BobGerman/Microsoft-Teams-Samples).
 * [App Studio for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/app-studio-overview).
 * [Teams Toolkitfor Visual Studio Code](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview), [Teams Toolkit for Visual Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-overview). 
