@@ -16,7 +16,7 @@
 * [Microsoft Teams Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples).
 * [GitHub - microsoft/BotBuilder-Samples](https://github.com/microsoft/BotBuilder-Samples): [Samples for Teams](https://github.com/microsoft/BotBuilder-Samples#teams-samples)
 * I also recommend the repository by Bob German -  [GitHub - BobGerman/Microsoft-Teams-Samples](https://github.com/BobGerman/Microsoft-Teams-Samples).
-* [Teams Toolkitfor Visual Studio Code](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview), [Teams Toolkit for Visual Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-overview). 
+* [Teams Toolkit for Visual Studio Code](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-code-overview), [Teams Toolkit for Visual Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/toolkit/visual-studio-overview). 
 * [Developer Portal for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/build-and-test/teams-developer-portal) (preview).
 
 
@@ -40,3 +40,9 @@
 * [Use Postman with the Microsoft Graph API - Microsoft Graph](https://docs.microsoft.com/en-us/graph/use-postman)
 * [Microsoft Graph Toolkit: UI Components and Authentication Providers for Microsoft Graph](https://docs.microsoft.com/en-us/graph/toolkit/overview)
 
+#
+# Microsoft 365 Developer Program:
+* [Join Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and get a free Microsoft 365 E5 developer subscription.
+* Microsoft 365 community for developers. [https://pnp.github.io/](https://pnp.github.io/)
+* [Community calls](https://pnp.github.io/#community): Microsoft Teams, Microsoft Graph, Adaptive Cards, SharePoint Framework and other topics.
+* [Tools for developers]9https://pnp.github.io/#tools)
