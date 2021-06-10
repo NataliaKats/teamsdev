@@ -28,6 +28,6 @@
 
 # Microsoft 365 Developer Program and community:
 * [Join Microsoft 365 Developer Program](https://developer.microsoft.com/en-us/microsoft-365/dev-program) and get a free Microsoft 365 E5 developer subscription.
-* [Microsoft 365 community for developers](https://pnp.github.io/)/.
+* [Microsoft 365 community for developers](https://pnp.github.io/).
 * [Community calls](https://pnp.github.io/#community): Microsoft Teams, Microsoft Graph, Adaptive Cards, SharePoint Framework and other topics.
 * [Tools for developers](https://pnp.github.io/#tools).
