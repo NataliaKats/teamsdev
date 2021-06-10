@@ -23,7 +23,7 @@
 
 ## Main documentation:
 * [Overview of Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
-* [Authentication and authorization basics for Microsoft Graph - Microsoft Graph](https://docs.microsoft.com/en-us/graph/auth/auth-concepts?view=graph-rest-1.0) - start working with Microsoft Graph (app registration, token).
+* [Authentication and authorization basics for Microsoft Graph - Microsoft Graph](https://docs.microsoft.com/en-us/graph/auth/auth-concepts?view=graph-rest-1.0) - start working with Microsoft Graph.
 * [Calling Microsoft Graph from your Teams application – Part 1: Introduction](https://bob1german.com/2020/08/31/calling-microsoft-graph-from-your-teams-application-part1/).
 
 ## What's new
