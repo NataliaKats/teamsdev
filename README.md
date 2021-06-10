@@ -12,7 +12,7 @@
 * [Calling Microsoft Graph from your Teams application – Part 1: Introduction](https://bob1german.com/2020/08/31/calling-microsoft-graph-from-your-teams-application-part1/).
 
 # What's new:
-* [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). Including [updates from Microsoft Build 2021](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview#microsoft-build-2021).
+* [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). 
 * [What's new in Microsoft Graph](https://docs.microsoft.com/en-us/graph/whats-new-overview).
 * [Micrososft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog) (API changelog).
 
