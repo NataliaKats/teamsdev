@@ -3,15 +3,13 @@
 ## Teams Platform:
 * [Build apps for the Microsoft Teams platform](https://docs.microsoft.com/en-us/microsoftteams/platform/overview) – main Teams Platform Documentation (app components, authentication, app publication).
 * [Designing your custom app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview) - the set of articles with design guidelines.
-* Teams platform presentation by Natalia Kats ([RUS](https://1drv.ms/b/s!ApfdFErcwDpjg-MnrT3mKn6HrQpOxw)). 
+* [Publication your app to the Microsoft Teams store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish).
+> Teams platform presentation by Natalia Kats ([RUS](https://1drv.ms/b/s!ApfdFErcwDpjg-MnrT3mKn6HrQpOxw)). 
 
 ## Microsoft Graph:
 * [Overview of Microsoft Graph](https://docs.microsoft.com/en-us/graph/overview) – Microsoft Graph documentation. API reference: [v1.0](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0), [beta](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-beta).
 * [Authentication and authorization basics for Microsoft Graph - Microsoft Graph](https://docs.microsoft.com/en-us/graph/auth/auth-concepts?view=graph-rest-1.0) - start working with Microsoft Graph.
 * [Calling Microsoft Graph from your Teams application – Part 1: Introduction](https://bob1german.com/2020/08/31/calling-microsoft-graph-from-your-teams-application-part1/).
-
-# Publication to Teams app store:
-* [Publish your app to the Microsoft Teams store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish).
 
 # What's new:
 * [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). Including [updates from Microsoft Build 2021](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview#microsoft-build-2021).
