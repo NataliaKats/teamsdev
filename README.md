@@ -15,7 +15,7 @@
 # What's new:
 * [What's new for developers in Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/platform/whats-new?tabs=devpreview). 
 * [What's new in Microsoft Graph](https://docs.microsoft.com/en-us/graph/whats-new-overview).
-* [Micrososft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog) (API changelog).
+* [Microsoft Graph Changelog](https://developer.microsoft.com/en-us/graph/changelog) (API changelog).
 
 # Code samples:
 * [Microsoft Teams Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples). [Graph APIs](https://github.com/OfficeDev/Microsoft-Teams-Samples#graph-apis).
