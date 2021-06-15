@@ -4,6 +4,7 @@
 * [Build apps for the Microsoft Teams platform](https://docs.microsoft.com/en-us/microsoftteams/platform/overview) – main Teams Platform Documentation (app components, authentication, app publication).
 * [Designing your custom app](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/design/design-teams-app-overview) - the set of articles with design guidelines.
 * [Publication to the Teams app store](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/deploy-and-publish/appsource/publish).
+* [Best Practices guides](https://developer.microsoft.com/en-us/microsoft-teams/app-development-resources)
 > Teams platform presentation by Natalia Kats ([RUS](https://1drv.ms/b/s!ApfdFErcwDpjg-MnrT3mKn6HrQpOxw)). 
 
 ## Microsoft Graph:
